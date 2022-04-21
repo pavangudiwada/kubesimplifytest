@@ -17,6 +17,21 @@ const config = {
   projectName: 'kubesimplifytest', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
