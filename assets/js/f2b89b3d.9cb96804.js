@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[444],{4422:function(s){s.exports=JSON.parse('{"allTagsPath":"/kubesimplifytest/blog/tags","name":"facebook","count":1,"permalink":"/kubesimplifytest/blog/tags/facebook"}')}}]);

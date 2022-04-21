@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[9],{6392:function(s){s.exports=JSON.parse('{"allTagsPath":"/kubesimplifytest/blog/tags","name":"docusaurus","count":4,"permalink":"/kubesimplifytest/blog/tags/docusaurus"}')}}]);
