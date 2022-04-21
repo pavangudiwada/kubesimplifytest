@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Kubesimplify',
+  tagline: 'Simplifying Cloud Native for All',
   url: 'https://github.com',
   baseUrl: '/kubesimplifytest/',
   onBrokenLinks: 'throw',
@@ -62,14 +62,14 @@ const config = {
         title: 'Kubesimplify',
         logo: {
           alt: 'Kubesimplify Logo',
-          src: 'img/logo.svg',
+          src: 'img/color.svg',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Notes',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -122,7 +122,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // copyright: `Copyright © ${new Date().getFullYear()} Made with ❤️ by Kubesimplify`,
+        copyright: `Made with ❤️ by Kubesimplify`,
+
       },
       prism: {
         theme: lightCodeTheme,

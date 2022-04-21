@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Kubesimplify",
+  "tagline": "Simplifying Cloud Native for All",
   "url": "https://github.com",
   "baseUrl": "/kubesimplifytest/",
   "onBrokenLinks": "throw",
@@ -42,17 +42,17 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Kubesimplify",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Kubesimplify Logo",
+        "src": "img/color.svg"
       },
       "items": [
         {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Notes"
         },
         {
           "to": "/blog",
@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/kubesimplify",
           "label": "GitHub",
           "position": "right"
         }
@@ -110,7 +110,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Made with ❤️ by Kubesimplify"
     },
     "prism": {
       "theme": {

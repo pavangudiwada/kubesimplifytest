@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Kubernetes/create-a-blog-post",
+  "id": "Kubernetes/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Kubernetes/create-a-blog-post.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/create-a-blog-post",
+  "permalink": "/kubesimplifytest/docs/Kubernetes/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/kubesimplifytest/docs/Kubernetes/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/kubesimplifytest/docs/Kubernetes/markdown-features"
+  }
+}

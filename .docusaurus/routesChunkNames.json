@@ -1,172 +1,201 @@
 {
+  "/kubesimplifytest/__docusaurus/debug-f17": {
+    "component": "component---theme-debug-config-23-a-2ff",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/config-5e6": {
+    "component": "component---theme-debug-config-23-a-2ff",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/content-baf": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---kubesimplifytest-docusaurus-debug-content-246-91c",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/globalData-d1d": {
+    "component": "component---theme-debug-global-dataede-0fa",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/metadata-c60": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/registry-482": {
+    "component": "component---theme-debug-registry-679-501",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
+  "/kubesimplifytest/__docusaurus/debug/routes-5ef": {
+    "component": "component---theme-debug-routes-946-699",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docusaurus-debug-472-afc"
+  },
   "/kubesimplifytest/blog-8c1": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---kubesimplifytest-blog-766-b34"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---kubesimplifytest-blogf-4-f-4cc"
       },
       {
-        "content": "8717b14a"
+        "content": "content---kubesimplifytest-blog-871-53e"
       },
       {
-        "content": "925b3f96"
+        "content": "content---kubesimplifytest-blog-925-fd1"
       }
     ],
-    "metadata": "fc4961a2",
-    "__routeContextModule": "3c77e9b9"
+    "metadata": "metadata---kubesimplifytest-blogfc-4-d25",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/archive-713": {
-    "component": "9e4087bc",
-    "archive": "4eb73825",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---kubesimplifytest-blog-archive-4-eb-be7",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/first-blog-post-a91": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "e273c56f",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
+    "content": "content---kubesimplifytest-blog-first-blog-poste-27-12f",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/long-blog-post-498": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "73664a40",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
+    "content": "content---kubesimplifytest-blog-long-blog-post-736-dc3",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/mdx-blog-post-f29": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "59362658",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
+    "content": "content---kubesimplifytest-blog-mdx-blog-post-593-52b",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/tags-355": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "4bfba8bd",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
+    "tags": "tags---kubesimplifytest-blog-tags-4-bf-c72",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/tags/docusaurus-22b": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---kubesimplifytest-blog-766-b34"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---kubesimplifytest-blogf-4-f-4cc"
       },
       {
-        "content": "8717b14a"
+        "content": "content---kubesimplifytest-blog-871-53e"
       },
       {
-        "content": "925b3f96"
+        "content": "content---kubesimplifytest-blog-925-fd1"
       }
     ],
-    "metadata": "129ed5e7",
-    "listMetadata": "aaf01900",
-    "__routeContextModule": "3c77e9b9"
+    "metadata": "metadata---kubesimplifytest-blog-tags-docusaurus-129-9ae",
+    "listMetadata": "listMetadata---kubesimplifytest-blog-tags-docusaurusaaf-201",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/tags/facebook-921": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---kubesimplifytest-blog-766-b34"
       }
     ],
-    "metadata": "f2b89b3d",
-    "listMetadata": "366b11ac",
-    "__routeContextModule": "3c77e9b9"
+    "metadata": "metadata---kubesimplifytest-blog-tags-facebookf-2-b-b6c",
+    "listMetadata": "listMetadata---kubesimplifytest-blog-tags-facebook-366-3ba",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/tags/hello-876": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---kubesimplifytest-blog-766-b34"
       },
       {
-        "content": "8717b14a"
+        "content": "content---kubesimplifytest-blog-871-53e"
       }
     ],
-    "metadata": "7c21c3b6",
-    "listMetadata": "db83e65f",
-    "__routeContextModule": "3c77e9b9"
+    "metadata": "metadata---kubesimplifytest-blog-tags-hello-7-c-2-dac",
+    "listMetadata": "listMetadata---kubesimplifytest-blog-tags-hellodb-8-74d",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/tags/hola-5ea": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---kubesimplifytest-blog-925-fd1"
       }
     ],
-    "metadata": "c81dc6b6",
-    "listMetadata": "478b6245",
-    "__routeContextModule": "3c77e9b9"
+    "metadata": "metadata---kubesimplifytest-blog-tags-holac-81-7d4",
+    "listMetadata": "listMetadata---kubesimplifytest-blog-tags-hola-478-74b",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/blog/welcome-321": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d9f32620",
-    "__routeContextModule": "3c77e9b9"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---kubesimplifytest-blog-814-00e",
+    "content": "content---kubesimplifytest-blog-welcomed-9-f-1f2",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-blog-3-c-7-d56"
   },
   "/kubesimplifytest/markdown-page-eac": {
-    "component": "1f391b9e",
-    "content": "393be207",
-    "__routeContextModule": "553c9381"
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---kubesimplifytest-markdown-page-393-9f3",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-markdown-page-553-3ec"
   },
   "/kubesimplifytest/search-839": {
-    "component": "1a4e3797",
-    "__routeContextModule": "9c35d0d2"
+    "component": "component---theme-search-page-1-a-4-d6f",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-search-9-c-3-9f0"
   },
   "/kubesimplifytest/docs-9cb": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb",
-    "__routeContextModule": "58226178"
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---kubesimplifytest-docs-935-926",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-docs-582-6d6"
   },
   "/kubesimplifytest/docs/intro-d83": {
-    "component": "17896441",
-    "content": "0e384e19"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-intro-0-e-3-d51"
   },
   "/kubesimplifytest/docs/tutorial-basics/congratulations-ff3": {
-    "component": "17896441",
-    "content": "822bd8ab"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-congratulations-822-ff8"
   },
   "/kubesimplifytest/docs/tutorial-basics/create-a-blog-post-f28": {
-    "component": "17896441",
-    "content": "533a09ca"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-create-a-blog-post-533-5de"
   },
   "/kubesimplifytest/docs/tutorial-basics/create-a-document-b27": {
-    "component": "17896441",
-    "content": "1e4232ab"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-create-a-document-1-e-4-ef3"
   },
   "/kubesimplifytest/docs/tutorial-basics/create-a-page-7bc": {
-    "component": "17896441",
-    "content": "5c868d36"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-create-a-page-5-c-8-b42"
   },
   "/kubesimplifytest/docs/tutorial-basics/deploy-your-site-4cc": {
-    "component": "17896441",
-    "content": "f55d3e7a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-deploy-your-sitef-55-bdb"
   },
   "/kubesimplifytest/docs/tutorial-basics/markdown-features-118": {
-    "component": "17896441",
-    "content": "18c41134"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-basics-markdown-features-18-c-47d"
   },
   "/kubesimplifytest/docs/tutorial-extras/manage-docs-versions-d02": {
-    "component": "17896441",
-    "content": "dff1c289"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-extras-manage-docs-versionsdff-c86"
   },
   "/kubesimplifytest/docs/tutorial-extras/translate-your-site-977": {
-    "component": "17896441",
-    "content": "e44a2883"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---kubesimplifytest-docs-tutorial-extras-translate-your-sitee-44-470"
   },
   "/kubesimplifytest/-015": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a",
-    "__routeContextModule": "553c9381"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---kubesimplifytest-5-e-9-0c2",
+    "__routeContextModule": "__routeContextModule---kubesimplifytest-markdown-page-553-3ec"
   }
 }

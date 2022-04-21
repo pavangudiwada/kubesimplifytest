@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Kubernetes/create-a-page",
+  "id": "Kubernetes/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/Kubernetes/create-a-page.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/create-a-page",
+  "permalink": "/kubesimplifytest/docs/Kubernetes/create-a-page",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/kubesimplifytest/docs/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/kubesimplifytest/docs/Kubernetes/create-a-document"
+  }
+}

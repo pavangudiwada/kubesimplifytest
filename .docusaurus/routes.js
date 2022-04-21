@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/kubesimplifytest/__docusaurus/debug',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug','f17'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/config',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/config','5e6'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/content',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/content','baf'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/globalData',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/globalData','d1d'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/metadata',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/metadata','c60'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/registry',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/registry','482'),
+    exact: true
+  },
+  {
+    path: '/kubesimplifytest/__docusaurus/debug/routes',
+    component: ComponentCreator('/kubesimplifytest/__docusaurus/debug/routes','5ef'),
+    exact: true
+  },
+  {
     path: '/kubesimplifytest/blog',
     component: ComponentCreator('/kubesimplifytest/blog','8c1'),
     exact: true
