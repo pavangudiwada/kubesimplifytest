@@ -4,163 +4,128 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','4f9'),
+    path: '/kubesimplifytest/blog',
+    component: ComponentCreator('/kubesimplifytest/blog','8c1'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','6bc'),
+    path: '/kubesimplifytest/blog/archive',
+    component: ComponentCreator('/kubesimplifytest/blog/archive','713'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','a83'),
+    path: '/kubesimplifytest/blog/first-blog-post',
+    component: ComponentCreator('/kubesimplifytest/blog/first-blog-post','a91'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','78f'),
+    path: '/kubesimplifytest/blog/long-blog-post',
+    component: ComponentCreator('/kubesimplifytest/blog/long-blog-post','498'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','ce9'),
+    path: '/kubesimplifytest/blog/mdx-blog-post',
+    component: ComponentCreator('/kubesimplifytest/blog/mdx-blog-post','f29'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','1ea'),
+    path: '/kubesimplifytest/blog/tags',
+    component: ComponentCreator('/kubesimplifytest/blog/tags','355'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','325'),
+    path: '/kubesimplifytest/blog/tags/docusaurus',
+    component: ComponentCreator('/kubesimplifytest/blog/tags/docusaurus','22b'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','2ee'),
+    path: '/kubesimplifytest/blog/tags/facebook',
+    component: ComponentCreator('/kubesimplifytest/blog/tags/facebook','921'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive','633'),
+    path: '/kubesimplifytest/blog/tags/hello',
+    component: ComponentCreator('/kubesimplifytest/blog/tags/hello','876'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post','6ad'),
+    path: '/kubesimplifytest/blog/tags/hola',
+    component: ComponentCreator('/kubesimplifytest/blog/tags/hola','5ea'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','9c5'),
+    path: '/kubesimplifytest/blog/welcome',
+    component: ComponentCreator('/kubesimplifytest/blog/welcome','321'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','69e'),
+    path: '/kubesimplifytest/markdown-page',
+    component: ComponentCreator('/kubesimplifytest/markdown-page','eac'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','73a'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','923'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','739'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','cc8'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','df1'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','8ee'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','cac'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs','240'),
+    path: '/kubesimplifytest/docs',
+    component: ComponentCreator('/kubesimplifytest/docs','9cb'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/kubesimplifytest/docs/intro',
+        component: ComponentCreator('/kubesimplifytest/docs/intro','d83'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/kubesimplifytest/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/congratulations','ff3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/kubesimplifytest/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/create-a-blog-post','f28'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/kubesimplifytest/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/create-a-document','b27'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/kubesimplifytest/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/create-a-page','7bc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
+        path: '/kubesimplifytest/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/deploy-your-site','4cc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
+        path: '/kubesimplifytest/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-basics/markdown-features','118'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
+        path: '/kubesimplifytest/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-extras/manage-docs-versions','d02'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        path: '/kubesimplifytest/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/kubesimplifytest/docs/tutorial-extras/translate-your-site','977'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/','0eb'),
+    path: '/kubesimplifytest/',
+    component: ComponentCreator('/kubesimplifytest/','015'),
     exact: true
   },
   {

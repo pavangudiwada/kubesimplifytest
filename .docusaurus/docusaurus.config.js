@@ -6,13 +6,14 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://github.com",
+  "baseUrl": "/kubesimplifytest/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "pavangudiwada",
+  "projectName": "kubesimplifytest",
+  "deploymentBranch": "gh-pages",
   "presets": [
     [
       "classic",

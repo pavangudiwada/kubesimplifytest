@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/docs/tutorial-basics/create-a-page",
+  "permalink": "/kubesimplifytest/docs/tutorial-basics/create-a-page",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
+    "permalink": "/kubesimplifytest/docs/intro"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "permalink": "/kubesimplifytest/docs/tutorial-basics/create-a-document"
   }
 }
