@@ -14,6 +14,14 @@ export default {
   "organizationName": "pavangudiwada",
   "projectName": "kubesimplifytest",
   "deploymentBranch": "gh-pages",
+  "themes": [
+    [
+      "/home/bogeyman/Documents/Pavan/Devops/repos/kubesimplifytest/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -328,7 +336,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "stylesheets": [],
   "clientModules": [],

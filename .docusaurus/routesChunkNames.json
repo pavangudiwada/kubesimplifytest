@@ -119,6 +119,10 @@
     "content": "393be207",
     "__routeContextModule": "553c9381"
   },
+  "/kubesimplifytest/search-839": {
+    "component": "1a4e3797",
+    "__routeContextModule": "9c35d0d2"
+  },
   "/kubesimplifytest/docs-9cb": {
     "component": "1be78505",
     "versionMetadata": "935f2afb",

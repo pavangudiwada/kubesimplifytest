@@ -64,6 +64,11 @@ export default [
     exact: true
   },
   {
+    path: '/kubesimplifytest/search',
+    component: ComponentCreator('/kubesimplifytest/search','839'),
+    exact: true
+  },
+  {
     path: '/kubesimplifytest/docs',
     component: ComponentCreator('/kubesimplifytest/docs','9cb'),
     routes: [
