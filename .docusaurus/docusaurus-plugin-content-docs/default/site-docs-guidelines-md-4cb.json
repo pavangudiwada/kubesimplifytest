@@ -1,0 +1,19 @@
+{
+  "unversionedId": "guidelines",
+  "id": "guidelines",
+  "title": "guidelines",
+  "description": "",
+  "source": "@site/docs/guidelines.md",
+  "sourceDirName": ".",
+  "slug": "/guidelines",
+  "permalink": "/kubesimplifytest/docs/guidelines",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guidelines.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/kubesimplifytest/docs/tutorial-extras/translate-your-site"
+  }
+}
