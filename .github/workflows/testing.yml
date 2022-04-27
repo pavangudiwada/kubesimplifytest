@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - testing
-  environment:
-      - devlopment
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
@@ -13,6 +11,8 @@ jobs:
   deploy:
     name: Deploy to Testing environment
     runs-on: ubuntu-latest
+    environment: 
+      - development 
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v3
